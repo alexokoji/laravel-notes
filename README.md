@@ -19,6 +19,7 @@ A simple note app built with Laravel 11, Laravel Breeze and Tailwind.
 
 - composer Install
 - php artisan serve
+- php artisan serve
 - npm install && npm run dev
   
 Visit 127.0.0.1:8000
